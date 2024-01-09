@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "pico-toy-elevator")(type "KiCad")(uri "${KIPRJMOD}/pico-toy-elevator.kicad_sym")(options "")(descr ""))
+  (lib (name "RPi_Pico")(type "Legacy")(uri "${KIPRJMOD}/VGA-KiCAD/RPi_Pico.lib")(options "")(descr ""))
+)

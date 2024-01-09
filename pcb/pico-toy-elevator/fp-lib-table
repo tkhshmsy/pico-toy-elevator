@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "pico-toy-elevator")(type "KiCad")(uri "${KIPRJMOD}/pico-toy-elevator.pretty")(options "")(descr ""))
+  (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/VGA-KiCAD/RPi_Pico.pretty")(options "")(descr ""))
+)
